@@ -1,0 +1,13 @@
+.menu_title__container {
+  margin: 15px auto;
+}
+
+.menu_title__container h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 135px;
+}
+
+.menu_title__container hr {
+  margin: 1rem auto;
+}
